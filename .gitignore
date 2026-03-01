@@ -1,0 +1,14 @@
+dataset/*
+!dataset/.gitkeep
+
+NMFDresults/*
+!NMFDresults/.gitkeep
+
+NMFresults/*
+!NMFresults/.gitkeep
+
+original_data_plot/*
+!original_data_plot/.gitkeep
+
+results_plot/*
+!results_plot/.gitkeep
